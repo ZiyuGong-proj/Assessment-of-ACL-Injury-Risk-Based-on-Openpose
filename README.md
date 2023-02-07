@@ -5,12 +5,19 @@ Aiming at the detection of the potential injury risk of the anterior cruciate li
 ## Getting Started 使用指南
 
 ### Prerequisites 项目使用条件
+
 ####Hardware 硬件
+
 This project are employed in Jetson Nano,and there is a technical specifications:
+
 [https://developer.nvidia.com/embedded/jetson-nano](https://developer.nvidia.com/embedded/jetson-nano)
+
 ####Operating System 操作系统
+
 unbuntu18.04
+
 ####Software 软件版本
+
 OpenPose 1.5.1 
 
 Python 3.6
@@ -24,6 +31,7 @@ pandas 1.0.3
 PyQt5(optional)
 
 ### Usage example 使用示例
+
 ![avatar](E:/PycharmProjects/LESS_code/pics/hardware.PNG)
 
 ![avatar](E:/PycharmProjects/LESS_code/pics/software.PNG)
