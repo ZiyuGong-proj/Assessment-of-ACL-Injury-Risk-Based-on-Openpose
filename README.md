@@ -44,6 +44,8 @@ PyQt5(optional)
 
 ![](E:/PycharmProjects/LESS_code/pics/test.PNG)
 
+<img src="E:/PycharmProjects/LESS_code/pics/test.PNG"/>
+
 ## License 授权协议
 
 这个项目 MIT 协议， 请点击 [LICENSE.md](LICENSE.md) 了解更多细节。
