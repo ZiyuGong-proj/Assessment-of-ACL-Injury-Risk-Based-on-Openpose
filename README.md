@@ -32,11 +32,11 @@ PyQt5(optional)
 
 ### Usage example 使用示例
 
-![](E:/PycharmProjects/LESS_code/Assessment-of-ACL-Injury-Risk-Based-on-Openpose/test_pics/hardware.PNG)
+![](test_pics/hardware.PNG)
 
-![](E:/PycharmProjects/LESS_code/Assessment-of-ACL-Injury-Risk-Based-on-Openpose/test_pics/software.PNG)
+![](/test_pics/software.PNG)
 
-![](E:/PycharmProjects/LESS_code/Assessment-of-ACL-Injury-Risk-Based-on-Openpose/test_pics/test.PNG)
+![](/test_pics/test.PNG)
 
 
 ## License 授权协议
