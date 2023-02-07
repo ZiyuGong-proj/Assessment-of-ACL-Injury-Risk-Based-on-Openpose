@@ -32,11 +32,17 @@ PyQt5(optional)
 
 ### Usage example 使用示例
 
-![avatar](E:/PycharmProjects/LESS_code/pics/hardware.PNG)
+![avatar](![](E:/PycharmProjects/LESS_code/pics/hardware.PNG))
 
 ![avatar](E:/PycharmProjects/LESS_code/pics/software.PNG)
 
 ![avatar](E:/PycharmProjects/LESS_code/pics/test.PNG)
+
+![](E:/PycharmProjects/LESS_code/pics/hardware.PNG)
+
+![](E:/PycharmProjects/LESS_code/pics/software.PNG)
+
+![](E:/PycharmProjects/LESS_code/pics/test.PNG)
 
 ## License 授权协议
 
