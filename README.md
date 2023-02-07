@@ -14,7 +14,7 @@ This project are employed in Jetson Nano,and there is a technical specifications
 
 #### Operating System 操作系统
 
-unbuntu18.04
+ubuntu 18.04
 
 #### Software 软件版本
 
@@ -28,7 +28,7 @@ matplotlib 2.1.1
 
 pandas 1.0.3
 
-PyQt5(optional)
+PyQt5 (optional)
 
 ### Usage example 使用示例
 
