@@ -8,7 +8,7 @@ Aiming at the detection of the potential injury risk of the anterior cruciate li
 
 #### Hardware 硬件
 
-This project is employed in Jetson Nano,and there is a technical specifications:
+This project is employed in Jetson Nano,and there is a technical specification:
 
 [https://developer.nvidia.com/embedded/jetson-nano](https://developer.nvidia.com/embedded/jetson-nano)
 
