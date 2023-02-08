@@ -9,7 +9,7 @@ import traceback
 
 
 point_name = [
- "Nose",
+  "Nose",
   "Neck",
   "RShoulder",
   "RElbow",
@@ -19,23 +19,23 @@ point_name = [
   "LWrist",
   "MidHip",
   "RHip",
-"RKnee",
-"RAnkle",
-"LHip",
-"LKnee",
-"LAnkle",
-"REye",
-"LEye",
-"REar",
-"LEar",
-"LBigToe",
-"LSmallToe",
-"LHeel",
-"RBigToe",
-"RSmallToe",
-"RHeel",
-"Background"
-]
+  "RKnee",
+  "RAnkle",
+  "LHip",
+  "LKnee",
+  "LAnkle",
+  "REye",
+  "LEye",
+  "REar",
+  "LEar",
+  "LBigToe",
+  "LSmallToe",
+  "LHeel",
+  "RBigToe",
+  "RSmallToe",
+  "RHeel",
+  "Background"
+  ]
 
 
 
